@@ -5,28 +5,28 @@ This project was developed in partnership with Aarete as part of our capstone ex
 
 ## Repository Structure
 
-### 1. `Presentation/`
+### 1. Presentation
 Contains our final deliverables:
 - PowerPoint deck used in our client presentation.
 - Poster summarizing our project visually.
 
-### 2. `Process/`
+### 2. Process
 Includes all project files used to build visualizations and run models:
 - **Orange Data Mining Files**: Input CSVs used in the machine learning tool Orange to explore correlations and model relationships between variables.
 - **Tableau Files**: Datasets and cleaned spreadsheets used to create dashboards and visual narratives.
 
-### 3. `Report/`
+### 3. Report
 Includes our written executive summary, outlining:
 - Key questions explored
 - Methods used
 - Insights discovered
 - Recommendations proposed
 
-## Data Collection & Preparation
+## Data 
 
-All datasets were collected from public sources including the CDC, CMS, and other government agencies. The data was cleaned and standardized to allow for accurate merging by **state** and **year**. Once unified, this master dataset enabled comprehensive cross-variable analysis.
+All datasets were collected from public sources including the CDC, KFF, and Data.gov. The data was cleaned and standardized to allow for accurate merging by **state** and **year**. Once unified, this master dataset enabled comprehensive cross-variable analysis.
 
-### Key Files in `data/`:
+### Key Files in data:
 
 | File Name | Description | Tool Used |
 |-----------|-------------|------------|

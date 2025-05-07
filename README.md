@@ -1,7 +1,7 @@
 # Aarete Capstone Project – Healthcare Spending & Health Outcomes
 
 ## Overview
-This project was developed as part of our capstone experience in partnership with Aarete. Our goal was to explore the relationship between state-level healthcare spending and key health indicators—such as death rate, obesity, and smoking rates—to identify trends, disparities, and opportunities for improvement within the U.S. healthcare system.
+This project was developed as part of our capstone experience in partnership with Aarete. Our goal was to explore the relationship between state-level healthcare spending and key health indicators to identify trends, disparities, and opportunities for improvement within the U.S. healthcare system.
 
 ## Project Structure
 The repository is organized into three main folders:
@@ -11,10 +11,10 @@ The repository is organized into three main folders:
 - **Report**: Features our executive summary, which highlights our approach, key takeaways, and recommendations.
 
 ## Data Collection & Preparation
-We began by sourcing multiple publicly available datasets from reputable institutions such as the CDC and the Centers for Medicare & Medicaid Services (CMS). Each dataset covered different aspects of healthcare, including:
+We began by sourcing multiple publicly available datasets from reputable institutions such as the CDC, KFF, and Data.gov. Each dataset covered different aspects of healthcare, including:
 
 - Total healthcare spending per capita
-- Death rates per 100,000 residents
+- Death rates per 100,000 
 - Obesity and smoking prevalence
 - Population figures and regional demographics
 

@@ -34,7 +34,7 @@ All datasets were collected from public sources including the CDC, KFF, and Data
 | `Southeast(in).csv` | A subset of the main dataset focused on Southeastern states. Used to investigate regional health disparities. | Orange Data Mining |
 | `Leading Cause of Death Per State.xlsx` | Dataset detailing the top causes of death per state. Helped support our Tableau visualizations. | Tableau |
 | `health indicators per state (1).xlsx` | Contains state-level data on obesity, smoking, and other health risk factors over multiple years. | Tableau |
-| `Expenditure Growth vs Inflation.xlsx` | Compares healthcare expenditure growth with inflation over time to examine national trends. | Tableau |
+| `Expenditure Growth vs Inflation.xlsx` | Compares healthcare expenditure growth with inflation over time to examine national trends. | Excel |
 
 ## Tools & Methodology
 
